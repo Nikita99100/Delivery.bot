@@ -1,0 +1,5 @@
+[Application]
+#loglevel= "debug"
+#port="8000"
+#telegramtoken=""
+#couriersurl="http://192.168.1.126:1400/api/v3"
